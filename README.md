@@ -66,4 +66,4 @@ Este proyecto es una implementación básica para aprender el uso de Solana y An
 
 ## 👨‍💻 Autor
 
-Proyecto realizado como práctica académica en Ingeniería en Sistemas Computacionales.
+Proyecto realizado por David Carranza
